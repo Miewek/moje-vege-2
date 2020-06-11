@@ -1,6 +1,6 @@
 import React from "react";
 import StronaGlowna from "./StronaGlowna";
-import Przepis from "./Przepis";
+//import Przepis from "./Przepis";
 import "./App.css";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -14,7 +14,7 @@ function App() {
 
                 <Switch>
                     <Route path="/:adres">
-                        <Przepis />
+                        {/*<Przepis />*/}
                     </Route>
                     <Route path="/">
                         <StronaGlowna />
