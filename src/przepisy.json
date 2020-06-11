@@ -1,0 +1,141 @@
+[
+    {
+        "nazwa": "Boczniaki w mięsnej marynacie",
+        "adres": "boczniaki-w-miesnej-marynacie",
+        "obrazek": "boczniaki.jpg",
+        "skladniki": [
+            "opakowanie boczniaków (250 g)",
+            "pół cebuli (50 g)",
+            "2 łyżki oleju (20 g) świetnie nada się olej czosnkowy",
+            "łyżka octu balsamicznego (15 g)",
+            "2 łyżki sosu sojowego (28 g)",
+            "ząbek czosnku (7 g)",
+            "łyżka cukru lub słodzika (7 g)",
+            "2 łyżeczki papryki wędzonej",
+            "łyżeczka papryki ostrej"
+        ],
+        "czas": "30 minut",
+        "porcje": "2 porcje",
+        "przygotowanie": [
+            "Boczniaki myjemy i przekładamy do miski.",
+            "Następnie cebulę siekamy w piórka i dodajemy do boczniaków.",
+            "Przygotowujemy marynatę poprzez zmieszanie wszystkich składników: oleju, octu balsamicznego, sosu sojowego, czosnku, cukru/słodziku, papryki wędzonej i ostrej.",
+            "Boczniaki z cebulą zalewamy marynatą i dokładnie mieszamy, a następnie odstawiamy na 10-15 minut.",
+            "Na dobrze rozgrzanej patelni smażymy boczniaki wraz z marynatą, gdy marynata odparuje, boczniaki są gotowe (około 5-10 minut). Alternatywą jest przygotowanie boczniaków na aluminiowej tacce na grillu, uważajcie by zbyt mocno ich nie przypiec, gdyż mogą być wtedy gorzkie."
+        ]
+    },
+    {
+        "nazwa": "Maślane ciasteczka owsiane z czekoladą",
+        "adres": "maslane-ciasteczka-owsiane-z-czekolada",
+        "obrazek": "ciasteczka.jpg",
+        "skladniki": [
+            "szklanka płatków owsianych (110 g)",
+            "łyżka mąki lub zmielonych płatków owsianych (12 g)",
+            "1/2 łyżeczki proszku do pieczenia (2 g)",
+            "2 łyżki cukru lub słodziku (24 g)",
+            "jajko",
+            "1/4 kostki masła (50 g)",
+            "1/2 tabliczki dowolnej czekolady (50 g)"
+        ],
+        "czas": "10 min + 15 min pieczenia",
+        "porcje": "10 – 15 ciasteczek",
+        "przygotowanie": [
+            "Płatki owsiane, mąkę, proszek do pieczenia, cukier/słodzik, jajko, oraz miękkie masło dodajemy do jednego naczynia i całość dokładnie miksujemy (lub mieszamy ręcznie, wtedy warto nieco mocniej roztopić masło).",
+            "Opcjonalnie dodajemy szczyptę cynamonu i soli.",
+            "Następnie czekoladę kroimy w kostkę a następnie dodajemy do masy i delikatnie mieszamy.",
+            "Piekarnik rozgrzewamy do 180 stopni (u mnie termoobieg + górna grzałka).",
+            "W międzyczasie nakładamy ciastka na blachę. Aby ułatwić nakładanie ciasta pomagamy sobie dodatkową łyżką, którą zsuwamy ciasto z łyżki. Ponieważ ciastka urosną, należy je nakładać w odstępach 3-4 cm.",
+            "Ciasteczka owsiane z czekoladą pieczemy przez 15-20 minut (dopóki ciastka się nie zarumienią) a następnie najlepiej jest studzić je na kratce."
+        ]
+    },
+    {
+        "nazwa": "Puree z kalafiora",
+        "adres": "puree-z-kalafiora",
+        "obrazek": "puree.jpg",
+        "skladniki": [
+            "kalafior (około 800 g)",
+            "3 łyżki masła (60 g)",
+            "4 łyżki śmietanki 30% (40 g)",
+            "3 łyżki śmietany 18% (75 g)",
+            "łyżeczka soli",
+            "2 łyżeczki płatków drożdżowych (4 g)",
+            "1/3 łyżeczki kurkumy"
+        ],
+        "czas": "25 minut",
+        "porcje": "około 1kg puree",
+        "przygotowanie": [
+            "Kalafior kroimy na mniejsze części i gotujemy na parze dopóki nie będzie miękki (gotowanie na parze ma tę zaletę, że kalafior nie nasiąknie wodą).",
+            "Następnie kalafior przenosimy do naczynia, do którego dodajemy pozostałe składniki czyli masło, śmietankę, śmietanę, sól i opcjonalnie płatki drożdżowe i kurkumę.",
+            "Wszystkie składniki dokładnie blendujemy do momentu uzyskania konsystencji puree."
+        ]
+    },
+    {
+        "nazwa": "Jajecznica ze szparagami",
+        "adres": "jajecznica-ze-szparagami",
+        "obrazek": "jajecznica.jpg",
+        "skladniki": [
+            "około 200 g szaragów",
+            "5 jajek",
+            "pół cebuli (50 g)",
+            "2 łyżeczki masła (20 g)",
+            "sól i pieprz wedle uznania",
+            "łyżka szczypiorku"
+        ],  
+        "czas": "20 minut",
+        "porcje": "2 porcje",
+        "przygotowanie": [
+            "Szparagi obieramy, kroimy na mniejsze kawałki, a następnie gotujemy na parze do momentu aż będą miękkie.",
+            "W międzyczasie siekamy cebulę i posmażamy ją na łyżeczce masła.",
+            "Gdy cebula się zeszkli dodajemy ugotowane szparagi i chwilę smażymy (2-3 minuty).",
+            "W międzyczasie w miseczce mieszamy jajka wraz z solą i pieprzem.",
+            "Później dodajemy drugą łyżeczkę masła na patelnię.",
+            "Następnie masę jajeczną wylewamy na patelnię z warzywami i podsmażamy do ścięcia jajek.",
+            "Opcjonalnie jajecznica ze szparagami może być przyozdabiona świeżym szczypiorkiem."
+        ]
+    },
+    {
+        "nazwa": "Chleb na maśle orzechowy",
+        "adres": "chleb-na-masle-orzechowy",
+        "obrazek": "chleb.jpg",
+        "skladniki": [
+            "5 jajek",
+            "150 g masła orzechowego",
+            "1,5 łyżeczki proszku do pieczenia",
+            "łyżeczka soli",
+            "2 łyżki siemienia lnianego (30 g)",
+            "2 łyżki nasion słonecznika (30 g)"
+        ],
+        "czas": "5 minut + 40 minut pieczenia",
+        "porcje": "450g chleba",
+        "przygotowanie": [
+            "Jajka, masło orzechowe, proszek do pieczenia i sól dokładnie mieszamy (najlepiej zmiksować).",
+            "Piekarnik nagrzewamy do 180 stopni.",
+            "Na końcu opcjonalnie dodajemy siemię lniane i nasiona słonecznika i krótko mieszamy.",
+            "Dość rzadkie ciasto wylewamy na blaszkę (keksówkę). ",
+            "Pieczemy około 40 minut (do momentu lekkiego zarumienienia), następnie dobrze jest pozostawić ciasto przez 15 minut w piekarniku aby nie opadło."
+        ]
+    },
+    {
+        "nazwa": "Keto kokosanki maślano-kokosowe",
+        "adres": "keto-kokosanki-maslano-kokosowe",
+        "obrazek": "kokosanki.jpg",
+        "skladniki": [
+            "4 łyżki masła lub oleju kokosowego (60 g)",
+            "5 łyżek słodziku* (erytrytol) (100 g)",
+            "2 szklanki wiórków kokosowych (180 g)",
+            "2 jajka",
+            "część erytrytolu może być zamieniona na odżywkę białkową"
+        ],
+        "czas": "10 minut + 20 minut pieczenia",
+        "porcje": "około 20 kokosanek o średnicy 5cm",
+        "przygotowanie": [
+            "Masło rozpuszczamy wraz ze słodzikiem.",
+            "Dodajemy do miski wiórki kokosowe, a następnie rozpuszczone masło ze słodzikiem oraz opcjonalnie odżywkę białkową. Całość dokładnie mieszamy.",
+            "Na końcu dodajemy jajka i ponownie mieszamy.",
+            "W międzyczasie przygotowywania kokosanek nagrzewamy piekarnik na 180 stopni (termoobieg + górna grzałka).",
+            "Z ciasta przy pomocy łyżki lepimy kokosanki. Świetnie nadaje się do tego również gałkownica do lodów.",
+            "Kokosanki pieczemy około 15-20 minut, dopóki się delikatnie nie zarumienią.",
+            "Studzimy na kratce (będą bardziej chrupiące od spodu)."
+        ]
+    }
+]

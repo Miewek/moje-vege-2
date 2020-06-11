@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  color: #646464;
+}
+
+.aplikacja {
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+.aplikacja h1 {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.aplikacja h2 {
+  text-align: center;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.strona .wyszukiwarka {
+  font-size: 20px;
+  margin: 20px auto;
+  padding: 20px;
+  
+  text-align: center;
+  background: #eeeeee;
+}
+
+.strona .wyszukiwarka input {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.strona .link {
+  display: inline-block;
+  width: 29%;
+  padding: 2%;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+  .strona .link {
+    width: 96%;
+  }
+}
+
+.strona .link span {
+  color: #646464;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  height: 48px;
+  
+}
+
+.strona .link img {
+  max-width: 100%;
+}
+
+.przepis {
+  padding: 10px;
+}
+
+.przepis h1 {
+  margin-bottom: 20px;
+}
+
+.przepis img {
+  max-width: 33%;
+}
+
+.przepis strong {
+  display: block;
+  margin: 20px 0;
+}
+
+.przepis .czas,
+.przepis .porcje {
+  display: block;
+  font-weight: bold;
+}
+
+.przepis .powrot {
+  font-weight: bold;
+  font-size: 20px;
+  color: #3b5998;
+  margin: 20px auto;
+  text-align: center;
+  display: block;
+
+}
