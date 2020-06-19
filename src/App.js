@@ -7,11 +7,12 @@ import "./App.css";
 
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
-function App() {
+function App ()
+{
     return (
         <Router>
-            <div className="aplikacja">
-                <header className="naglowek">
+            <header className="naglowek">
+                <div className="menu">
                     <Link className="menulink" to={"/"}>
                         Strona główna
                     </Link>
@@ -19,13 +20,12 @@ function App() {
                         O mnie
                     </Link>
                     <Link className="menulink" to={"/kontakt"}>
-                       Kontakt
+                        Kontakt
                     </Link>
-                </header>
-                
-                <h1>Moje vege</h1>
-                <h2>Czyli moje wegańskie i wegetarianśkie przepisy</h2>
+                </div>
+            </header>
 
+            <div className="aplikacja">
                 <Switch>
                     <Route path="/kontakt">
                         <Kontakt />

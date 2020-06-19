@@ -27,6 +27,9 @@ class StronaGlowna extends React.Component
 
         return (
             <div className="strona">
+                <h1>Moje vege</h1>
+                <h2>Czyli moje wegańskie i wegetarianśkie przepisy</h2>
+
                 <div className="wyszukiwarka">
                     Wyszukiwarka: <input value={this.state.wyszukiwarka} onChange={this.zmiana} />
                 </div>
@@ -42,7 +45,7 @@ class StronaGlowna extends React.Component
                     );
                 } )}
 
-               
+
             </div>
         );
     }

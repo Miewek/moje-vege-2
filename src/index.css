@@ -9,6 +9,27 @@ body {
   color: #646464;
 }
 
+.naglowek {
+  background-color: #646464;
+  padding: 20px;
+}
+
+.menu {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.menulink {
+  color: white;
+  margin-right: 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.menulink:hover {
+  text-decoration: underline;
+}
+
 .aplikacja {
   max-width: 1200px;
   margin: 40px auto;
@@ -96,5 +117,12 @@ body {
   margin: 20px auto;
   text-align: center;
   display: block;
+}
 
+.omnie p {
+  text-align: center;
+}
+
+.kontakt p {
+  text-align: center;
 }
